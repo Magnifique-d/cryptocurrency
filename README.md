@@ -1,1 +1,1 @@
-# cryptocurrency-notifier
+The price of BTC is currently 22,981.15 USD . We currently monitor 11707 cryptocurrencies for real-time customizable price alerts. Real-time price monitoring across 34 exchanges, including Coinbase, Binance, Bittrex, BitMEX, Kraken and Bitfinex.
